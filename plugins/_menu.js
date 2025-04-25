@@ -41,7 +41,7 @@ Sparky({
             }).split(",");
             let menu = `╭━━━〔${config.BOT_INFO.split(";")[0].toLowerCase()}〕━━>
 ┃╭━━━━━━━━━━━━━━◉
-┃┃•  owner : ${config.BOT_INFO.split(";")[1].toLowerCase()}
+┃┃•  owner : 𓆩ᴛᴏxɪᴄ𓆪💋
 ┃┃•  mode : ${config.WORK_TYPE.toLowerCase()}
 ┃┃•  prefix : ${m.prefix}
 ┃┃•  date : ${date}
